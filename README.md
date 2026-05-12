@@ -1,0 +1,2 @@
+a. ampq adalah protokol standar terbuka di tingkat aplikasi yang digunakan oleh perangkat lunak middleware untuk mengirim dan menerima pesan antar sistem atau aplikasi.
+b. guest:guest@localhost:5672, guest yang pertama adalah username yang digunakan untuk masuk ke server ampq, guest yang kedua adalah password untuk pengguna tersebut, localhost:5672 adalah alamat dari server ampq yang sedang berjalan
